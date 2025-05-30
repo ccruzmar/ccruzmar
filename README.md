@@ -2,54 +2,64 @@
   <img src="https://github.com/ccruzmar/ccruzmar/blob/main/img_datascientist.png" alt="Carlos Mario Cruz Marín - Data Scientist" width="100%">
 </p>
 
-# 👋 Hola, soy Carlos Mario Cruz Marín
+<p align="center">
+  <img src="https://github.com/ccruzmar/ccruzmar/blob/main/A_professional_digital_illustration_features_Carlo.png" alt="Carlos Mario Cruz Marín - Data Scientist" width="100%">
+</p>
 
+# 👋 Hi, I'm Carlos Mario Cruz Marín  
+🎓 MSc in Climate, Energy, and Environmental Risk | 🌱 Environmental Engineer | 📊 Aspiring Data Scientist  
+
+---
+
+I'm a professional with over 10 years of experience in the analysis and management of environmental projects in the energy sector (generation, transmission, and distribution). I’m currently transitioning into the data science field, combining my technical and environmental knowledge with data analytics to develop sustainable, data-driven solutions.
+
+I'm completing an intensive Data Science bootcamp at **TripleTen**, where I’ve developed real-world projects using Python, SQL, Machine Learning, and Data Visualization.
+
+---
+
+## 🧰 Technologies & Tools
+
+**Languages:** Python, SQL  
+**Libraries:** pandas, NumPy, seaborn, matplotlib, scikit-learn, plotly  
+**Databases:** PostgreSQL  
+**BI / Visualization:** Tableau, Power BI  
+**Version Control:** Git, GitHub  
+**GIS:** ArcGIS Pro, QGIS  
+**Others:** Bash, Jupyter, Visual Studio Code  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 Climate and Taxi Ride Duration Analysis – Chicago  
+📁 [View repository]  
+📌 Statistical analysis on the impact of weather on taxi ride durations. Includes data exploration, hypothesis testing, and visualizations.
+
+### 🌎 Energy Consumption by Sector in Colombia  
+📁 [View repository]  
+📌 Trend analysis of energy consumption, CAGR calculation per sector, and matplotlib-based visualizations. Applications for environmental planning.
+
+### 🎮 Predicting Commercial Success of Video Games  
+📁 [View repository]  
+📌 Binary classification model using machine learning to predict video game success. Includes feature engineering and validation.
+
+---
+
+## 📫 Contact
+
+📧 Email: carlosmariocruzm@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ccruzmar84/)  
+💻 [GitHub](https://github.com/ccruzmar)  
+
+# 👋 Hola, soy Carlos Mario Cruz Marín  
 🎓 MSc en Clima, Energía y Riesgo Ambiental | 🌱 Ingeniero Ambiental | 📊 Data Scientist en formación
 
 ---
 
-Soy un profesional con más de 10 años de experiencia en el análisis y gestión de proyectos ambientales dentro del sector energético (generación, transmisión y distribución de energía). Actualmente me encuentro haciendo una transición hacia el mundo de la ciencia de datos, combinando mi conocimiento técnico con el análisis cuantitativo para generar soluciones sostenibles basadas en datos.
+Soy un profesional con más de 10 años de experiencia liderando y gestionando proyectos ambientales en el sector energético (generación, transmisión y distribución). Actualmente, estoy realizando una transición hacia la ciencia de datos, donde busco integrar mi experiencia en sostenibilidad con el análisis de datos para tomar decisiones más inteligentes, éticas y sustentables.
 
-Mi formación incluye un bootcamp intensivo como **Data Scientist en TripleTen**, donde he desarrollado proyectos con Python, SQL, Machine Learning y visualización de datos.
-
----
-
-## 🧰 Tecnologías y Herramientas
-
-- **Lenguajes:** Python, SQL  
-- **Librerías:** pandas, NumPy, seaborn, matplotlib, scikit-learn, plotly  
-- **Bases de datos:** PostgreSQL  
-- **BI / Visualización:** Tableau, Power BI  
-- **Control de versiones:** Git, GitHub  
-- **GIS:** ArcGIS Pro, QGIS  
-- **Otros:** Bash, Jupyter, Visual Studio Code  
+Actualmente estoy finalizando un bootcamp intensivo como **Data Scientist** en **TripleTen**, en el cual he desarrollado proyectos aplicados usando **Python**, **SQL**, **Machine Learning** y herramientas de **visualización de datos**. Mi propósito es aportar soluciones basadas en datos que tengan impacto en el ámbito ambiental, energético y social.
 
 ---
 
-## 🚀 Proyectos Destacados
 
-### 🔍 Análisis de clima y duración de taxis en Chicago
-📁 [Ver repositorio](https://github.com/ccruzmar/project_sprint_8_PYTHON)  
-📌 Comprobación estadística del impacto del clima en los tiempos de viaje. Incluye análisis exploratorio, prueba de hipótesis y visualizaciones.
-
----
-
-### 🌎 Consumo energético en Colombia por sectores
-📁 [Ver repositorio](https://github.com/ccruzmar/consumo-energia-colombia)  
-📌 Análisis de tendencias energéticas, cálculo del CAGR por sector y visualización con matplotlib. Aplicaciones para planeación ambiental.
-
----
-
-### 🎮 Predicción de éxito comercial en videojuegos
-📁 [Ver repositorio](https://github.com/ccruzmar/exito-videojuegos)  
-📌 Modelo de clasificación binaria con machine learning para predecir el éxito de videojuegos. Incluye ingeniería de características y validación.
-
----
-
-## 📫 Contacto
-
-- 📧 Email: carlosmariocruzm@hotmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ccruzmar84/)  
-- 💻 [GitHub](https://github.com/ccruzmar)
-
----
