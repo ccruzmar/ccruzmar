@@ -7,6 +7,7 @@
 </p>
 
 # 👋 Hi, I'm Carlos Mario Cruz Marín  
+
 🎓 MSc in Climate, Energy, and Environmental Risk | 🌱 Environmental Engineer | 📊 Aspiring Data Scientist  
 
 ---
