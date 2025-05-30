@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ccruzmar/ccruzmar/blob/main/img_datascientist.png" alt="Carlos Mario Cruz Marín - Data Scientist" width="100%">
+</p>
+
 # 👋 Hola, soy Carlos Mario Cruz Marín
 
 🎓 MSc en Clima, Energía y Riesgo Ambiental | 🌱 Ingeniero Ambiental | 📊 Data Scientist en formación
