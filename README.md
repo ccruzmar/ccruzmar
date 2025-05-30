@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ccruzmar/ccruzmar/blob/main/A_professional_digital_illustration_features_Carlo.png" alt="Carlos Mario Cruz Marín - Data Scientist" width="100%">
+  <img src="https://github.com/ccruzmar/ccruzmar/blob/main/A_professional_digital_illustration_features_Carlo.png"
 </p>
 
 # 👋 Hi, I'm Carlos Mario Cruz Marín  
