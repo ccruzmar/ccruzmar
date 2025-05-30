@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ccruzmar/ccruzmar/blob/main/img_datascientist.png" alt="Carlos Mario Cruz Marín - Data Scientist" width="100%">
+  <img src="https://github.com/ccruzmar/ccruzmar/blob/main/img_datascientist.png">
 </p>
 
 <p align="center">
